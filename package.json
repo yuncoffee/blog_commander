@@ -1,0 +1,17 @@
+{
+    "name": "coffe_post_command",
+    "version": "0.0.1",
+    "description": "블로그 글을 조금이라도 편하게 쓰려고 만든 커맨드",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "노가다"
+    ],
+    "author": "yuncoffee",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^5.2.0",
+        "commander": "^10.0.0",
+        "inquirer": "^9.1.4"
+    }
+}
